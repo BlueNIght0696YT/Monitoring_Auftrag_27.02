@@ -66,7 +66,7 @@ Robin, Mika, Kim, Harun, Arlind, Ryan, Rijha, Nathan + Karma, Enrique Florin
 
 ### DHCP Subnet 192.168.223.0/24
 
-![WIP](WIP)
+![WIP]()
 
 ## Netzwerkplan
 
