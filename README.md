@@ -83,13 +83,11 @@ Robin, Mika, Kim, Harun, Arlind, Ryan, Rijha, Nathan + Karma, Enrique Florin
 
 ## DHCP Config
 
-### DHCP Subnet 192.168.222.0/24
-
 ![dhcp-config-222](dhcp-config-222.png)
 
-### DHCP Subnet 192.168.223.0/24
+### DHCP Subnet 192.168.222.0/24
 
-![WIP]()
+### DHCP Subnet 192.168.223.0/24
 
 ## Netzwerkplan
 
