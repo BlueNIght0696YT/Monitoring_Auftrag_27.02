@@ -68,7 +68,7 @@ Robin, Mika, Kim, Harun, Arlind, Ryan, Rijha, Nathan + Karma, Enrique Florin
 | ------------- | ----------- |
 | 192.168.22.1  | Core-Router |
 | 192.168.222.1 | RT001       |
-| 192.168.223.2 | RT002       |
+| 192.168.223.1 | RT002       |
 
 ### Access Points
 
