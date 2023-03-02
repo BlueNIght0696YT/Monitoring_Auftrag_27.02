@@ -70,4 +70,4 @@ Robin, Mika, Kim, Harun, Arlind, Ryan, Rijha, Nathan + Karma, Enrique Florin
 
 ## Netzwerkplan
 
-![Netzwerkplan](netzwerkplan.png)
+![Netzwerkplan](Netzwerkplan.png)
