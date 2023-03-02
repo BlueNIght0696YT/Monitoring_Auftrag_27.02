@@ -57,3 +57,17 @@ Robin, Mika, Kim, Harun, Arlind, Ryan, Rijha, Nathan + Karma, Enrique Florin
 | -------------- | -------- |
 | 192.168.222.10 | SW001    |
 | 192.168.222.11 | SW002    |
+
+## DHCP Config
+
+### DHCP Subnet 192.168.222.0/24
+
+![dhcp-config-222](dhcp-config-222.png)
+
+### DHCP Subnet 192.168.223.0/24
+
+![WIP](WIP)
+
+## Netzwerkplan
+
+![Netzwerkplan](netzwerkplan.png)
