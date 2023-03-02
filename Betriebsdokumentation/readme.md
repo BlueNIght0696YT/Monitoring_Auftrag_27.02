@@ -66,5 +66,6 @@
 | ------------ | ------------    |
 | Hostname     | AP001           |
 | IP-Adresse   | 192.168.222.20  |
-| Benutzername | ?  |
-| Passwort     | ?      |
+| Benutzername | ?               |
+| Passwort     | ?               |
+ 
