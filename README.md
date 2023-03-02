@@ -53,10 +53,22 @@ Robin, Mika, Kim, Harun, Arlind, Ryan, Rijha, Nathan + Karma, Enrique Florin
 
 ### Routers
 
-| Router         | Hostname |
+| Router        | Hostname |
+| ------------- | -------- |
+| 192.168.222.1 | RT001    |
+| 192.168.222.2 | RT002    |
+
+### Access Points
+
+| Access Point   | Hostname |
 | -------------- | -------- |
-| 192.168.222.10 | SW001    |
-| 192.168.222.11 | SW002    |
+| 192.168.222.20 | AP001    |
+
+### Servers
+
+| Server          | Hostname |
+| --------------- | -------- |
+| 192.168.222.200 | SR001    |
 
 ## DHCP Config
 
