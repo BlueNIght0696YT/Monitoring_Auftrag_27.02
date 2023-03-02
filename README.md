@@ -39,7 +39,7 @@ Robin, Mika, Kim, Harun, Arlind, Ryan, Rijha, Nathan + Karma, Enrique Florin
 | Luans VM    | ws003    | 192.168.22**2**.102/24 |
 | Iljas VM    | ws004    | 192.168.22**2**.103/24 |
 | Avis VM     | ws005    | 192.168.22**2**.104/24 |
-| Eddys VM    | ws006    | 192.168.22**2**.105/24 |
+| Edlirs VM   | ws006    | 192.168.22**2**.105/24 |
 | Flos VM     | ws007    | 192.168.22**2**.106/24 |
 | Enriques VM | ws008    | 192.168.22**2**.107/24 |
 | Karmas VM   | ws009    | 192.168.22**2**.108/24 |
