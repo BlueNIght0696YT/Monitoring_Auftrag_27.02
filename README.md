@@ -32,41 +32,53 @@ Robin, Mika, Kim, Harun, Arlind, Ryan, Rijha, Nathan + Karma, Enrique Florin
 
 ### Workstations
 
-| Gerät       | Hostname |
-| ----------- | -------- |
-| Basils VM   | WS001    |
-| Michis VM   | WS002    |
-| Luans VM    | WS003    |
-| Iljas VM    | WS004    |
-| Avis VM     | WS005    |
-| Eddys VM    | WS006    |
-| Flos VM     | WS007    |
-| Enriques VM | WS008    |
-| Karmas VM   | WS009    |
+| Gerät       | Hostname | IP              |
+| ----------- | -------- | --------------- |
+| Basils VM   | WS001    | 192.168.222.100 |
+| Michis VM   | WS002    | 192.168.222.101 |
+| Luans VM    | WS003    | 192.168.222.102 |
+| Iljas VM    | WS004    | 192.168.222.103 |
+| Avis VM     | WS005    | 192.168.222.104 |
+| Eddys VM    | WS006    | 192.168.222.105 |
+| Flos VM     | WS007    | 192.168.222.106 |
+| Enriques VM | WS008    | 192.168.222.107 |
+| Karmas VM   | WS009    | 192.168.222.108 |
+| Arlinds VM  | WS010    | 192.168.223.100 |
+| Rayans VM   | WS011    | 192.168.223.101 |
+| Haruns VM   | WS012    | 192.168.223.102 |
+| Kim VM      | WS013    | 192.168.223.103 |
+| Robin VM    | WS014    | 192.168.223.104 |
+| Mika VM     | WS015    | 192.168.223.105 |
+| Nathan VM   | WS016    | 192.168.223.106 |
+| Rijha VM    | WS017    | 192.168.223.107 |
+
 
 ### Switches
 
-| Switch         | Hostname |
+| IP             | Hostname |
 | -------------- | -------- |
 | 192.168.222.10 | SW001    |
 | 192.168.222.11 | SW002    |
+| 192.168.223.10 | SW003    |
+| 192.168.223.11 | SW004    |
 
 ### Routers
 
-| Router        | Hostname |
-| ------------- | -------- |
-| 192.168.222.1 | RT001    |
-| 192.168.222.2 | RT002    |
+| IP            | Hostname    |
+| ------------- | ----------- |
+| 192.168.22.1  | Core-Router |
+| 192.168.222.1 | RT001       |
+| 192.168.223.2 | RT002       |
 
 ### Access Points
 
-| Access Point   | Hostname |
+| IP             | Hostname |
 | -------------- | -------- |
 | 192.168.222.20 | AP001    |
 
 ### Servers
 
-| Server          | Hostname |
+| IP              | Hostname |
 | --------------- | -------- |
 | 192.168.222.200 | SR001    |
 
