@@ -52,7 +52,6 @@ Robin, Mika, Kim, Harun, Arlind, Ryan, Rijha, Nathan + Karma, Enrique Florin
 | Nathan VM   | ws016    | 192.168.223.106 |
 | Rijha VM    | ws017    | 192.168.223.107 |
 
-
 ### Switches
 
 | IP             | Hostname |
