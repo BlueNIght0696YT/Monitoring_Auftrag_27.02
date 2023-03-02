@@ -18,11 +18,11 @@ Robin, Mika, Kim, Harun, Arlind, Ryan, Rijha, Nathan + Karma, Enrique Florin
 
 | Gerät       | Kürzel |
 | ----------- | ------ |
-| Switch      | SW     |
-| Router      | RT     |
-| Workstation | WS     |
-| Acess Point | AP     |
-| Server      | SR     |
+| Switch      | sw     |
+| Router      | rt     |
+| Workstation | ws     |
+| Acess Point | ap     |
+| Server      | sr     |
 
 ### Aufbau
 
@@ -34,53 +34,53 @@ Robin, Mika, Kim, Harun, Arlind, Ryan, Rijha, Nathan + Karma, Enrique Florin
 
 | Gerät       | Hostname | IP              |
 | ----------- | -------- | --------------- |
-| Basils VM   | WS001    | 192.168.222.100 |
-| Michis VM   | WS002    | 192.168.222.101 |
-| Luans VM    | WS003    | 192.168.222.102 |
-| Iljas VM    | WS004    | 192.168.222.103 |
-| Avis VM     | WS005    | 192.168.222.104 |
-| Eddys VM    | WS006    | 192.168.222.105 |
-| Flos VM     | WS007    | 192.168.222.106 |
-| Enriques VM | WS008    | 192.168.222.107 |
-| Karmas VM   | WS009    | 192.168.222.108 |
-| Arlinds VM  | WS010    | 192.168.223.100 |
-| Rayans VM   | WS011    | 192.168.223.101 |
-| Haruns VM   | WS012    | 192.168.223.102 |
-| Kim VM      | WS013    | 192.168.223.103 |
-| Robin VM    | WS014    | 192.168.223.104 |
-| Mika VM     | WS015    | 192.168.223.105 |
-| Nathan VM   | WS016    | 192.168.223.106 |
-| Rijha VM    | WS017    | 192.168.223.107 |
+| Basils VM   | ws001    | 192.168.222.100 |
+| Michis VM   | ws002    | 192.168.222.101 |
+| Luans VM    | ws003    | 192.168.222.102 |
+| Iljas VM    | ws004    | 192.168.222.103 |
+| Avis VM     | ws005    | 192.168.222.104 |
+| Eddys VM    | ws006    | 192.168.222.105 |
+| Flos VM     | ws007    | 192.168.222.106 |
+| Enriques VM | ws008    | 192.168.222.107 |
+| Karmas VM   | ws009    | 192.168.222.108 |
+| Arlinds VM  | ws010    | 192.168.223.100 |
+| Rayans VM   | ws011    | 192.168.223.101 |
+| Haruns VM   | ws012    | 192.168.223.102 |
+| Kim VM      | ws013    | 192.168.223.103 |
+| Robin VM    | ws014    | 192.168.223.104 |
+| Mika VM     | ws015    | 192.168.223.105 |
+| Nathan VM   | ws016    | 192.168.223.106 |
+| Rijha VM    | ws017    | 192.168.223.107 |
 
 
 ### Switches
 
 | IP             | Hostname |
 | -------------- | -------- |
-| 192.168.222.10 | SW001    |
-| 192.168.222.11 | SW002    |
-| 192.168.223.10 | SW003    |
-| 192.168.223.11 | SW004    |
+| 192.168.222.10 | sw001    |
+| 192.168.222.11 | sw002    |
+| 192.168.223.10 | sw003    |
+| 192.168.223.11 | sw004    |
 
 ### Routers
 
 | IP            | Hostname    |
 | ------------- | ----------- |
-| 192.168.22.1  | Core-Router |
-| 192.168.222.1 | RT001       |
-| 192.168.223.1 | RT002       |
+| 192.168.22.1  | core-router |
+| 192.168.222.1 | rt001       |
+| 192.168.223.1 | rt002       |
 
 ### Access Points
 
 | IP             | Hostname |
 | -------------- | -------- |
-| 192.168.222.20 | AP001    |
+| 192.168.222.20 | ap001    |
 
 ### Servers
 
 | IP              | Hostname |
 | --------------- | -------- |
-| 192.168.222.200 | SR001    |
+| 192.168.222.200 | sr001    |
 
 ## DHCP Config
 
