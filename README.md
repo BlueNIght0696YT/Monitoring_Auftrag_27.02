@@ -92,6 +92,8 @@ Robin, Mika, Kim, Harun, Arlind, Ryan, Rijha, Nathan + Karma, Enrique Florin
 
 ### DHCP Subnet 192.168.223.0/24
 
+![dhcp-config-223](dhcp-config-223.png)
+
 ## Netzwerkplan
 
 ![Netzwerkplan](networkplan-filius.jpg)
