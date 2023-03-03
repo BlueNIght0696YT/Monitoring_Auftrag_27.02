@@ -1,8 +1,8 @@
 # Betriebsdokumentation
 
 ## Server
-| sr001        |                 |  
-| ------------ | ------------    |
+| sr001        |                 |
+| ------------ | --------------- |
 | Hostname     | sr001           |
 | IP-Adresse   | 192.168.222.200 |
 | Benutzername | opennms-admin   |
@@ -19,53 +19,59 @@
 | Passwort     | opnsense     |
 
 | RT001        |               |
-| ------------ | ------------  |
+| ------------ | ------------- |
 | Hostname     | RT0001        |
 | IP-Adresse   | 192.168.222.1 |
-| Benutzername |     ubnt      |
-| Passwort     |  ubnt         |
+| Benutzername | ubnt          |
+| Passwort     | zli123545     |
 
 | RT002        |               |
-| ------------ | ------------  |
+| ------------ | ------------- |
 | Hostname     | RT002         |
 | IP-Adresse   | 192.168.223.2 |
-| Benutzername |    ubnt       |
-| Passwort     |  ubnt         |
+| Benutzername | ubnt          |
+| Passwort     | ubnt          |
 
 ## Switches
-| SW001        |                 |  
-| ------------ | ------------    |
-| Hostname     | SW001           |
-| IP-Adresse   | 192.168.222.10  |
-| Benutzername | {none}          |
-| Passwort     | password        |
+| SW001        |                |
+| ------------ | -------------- |
+| Hostname     | SW001          |
+| IP-Adresse   | 192.168.222.10 |
+| Benutzername | {none}         |
+| Passwort     | zli123545      |
 
-| SW002        |                 |  
-| ------------ | ------------    |
-| Hostname     | SW002           |
-| IP-Adresse   | 192.168.222.11  |
-| Benutzername | {None}          |
-| Passwort     | password        |
+| SW002        |                |
+| ------------ | -------------- |
+| Hostname     | SW002          |
+| IP-Adresse   | 192.168.222.11 |
+| Benutzername | {None}         |
+| Passwort     | zli123545      |
 
-| SW003        |                 |  
-| ------------ | ------------    |
-| Hostname     | SW003           |
-| IP-Adresse   | 192.168.223.10  |
-| Benutzername | {None}          |
-| Passwort     | password        |
+| SW003        |                |
+| ------------ | -------------- |
+| Hostname     | SW003          |
+| IP-Adresse   | 192.168.223.10 |
+| Benutzername | {None}         |
+| Passwort     | password       |
 
-| SW004        |                 |  
-| ------------ | ------------    |
-| Hostname     | SW004           |
-| IP-Adresse   | 192.168.223.11  |
-| Benutzername | {none}          |
-| Passwort     | password        |
+| SW004        |                |
+| ------------ | -------------- |
+| Hostname     | SW004          |
+| IP-Adresse   | 192.168.223.11 |
+| Benutzername | {none}         |
+| Passwort     | password       |
 
 ## Access-Points
-| AP001        |                 |  
-| ------------ | ------------    |
+| AP001        |                 |
+| ------------ | --------------- |
 | Hostname     | AP001           |
 | IP-Adresse   | 192.168.222.20  |
-| Benutzername | ?               |
-| Passwort     | ?               |
- 
+| Benutzername | Basils Netzwerk |
+| Passwort     | zli123545       |
+
+| AP002        |                |
+| ------------ | -------------- |
+| Hostname     | AP002          |
+| IP-Adresse   | 192.168.223.20 |
+| Benutzername | AP002          |
+| Passwort     | zli123545      |
