@@ -63,17 +63,20 @@ Robin, Mika, Kim, Harun, Arlind, Ryan, Rijha, Nathan + Karma, Enrique Florin
 
 ### Routers
 
-| IP            | Hostname    |
-| ------------- | ----------- |
-| 192.168.22.1  | core-router |
-| 192.168.222.1 | rt001       |
-| 192.168.223.1 | rt002       |
+| IP            | Hostname           |
+| ------------- | ------------------ |
+| 192.168.219.1 | core-router (OPT1) |
+| 10.80.4.244   | core-router (WAN)  |
+| 192.168.220.1 | core-router (LAN)  |
+| 192.168.222.1 | rt001              |
+| 192.168.223.1 | rt002              |
 
 ### Access Points
 
 | IP             | Hostname |
 | -------------- | -------- |
 | 192.168.222.20 | ap001    |
+| 192.168.223.20 | ap002    |
 
 ### Servers
 
@@ -83,9 +86,9 @@ Robin, Mika, Kim, Harun, Arlind, Ryan, Rijha, Nathan + Karma, Enrique Florin
 
 ## DHCP Config
 
-![dhcp-config-222](dhcp-config-222.png)
-
 ### DHCP Subnet 192.168.222.0/24
+
+![dhcp-config-222](dhcp-config-222.png)
 
 ### DHCP Subnet 192.168.223.0/24
 
